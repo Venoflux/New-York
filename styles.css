@@ -1,0 +1,74 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: sans-serif;
+    margin: auto 45rem;
+}
+
+header {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+footer {
+    text-align: center;
+}
+
+main>p {
+    text-align: start;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+ol {
+    text-align: left;
+    color: #033784;
+    font-weight: bold;
+}
+
+h1, h3, strong {
+    color: #033784;
+}
+
+h2{
+    color: #769fce;
+}
+
+em {
+    color: #2b549c;
+}
+
+.citation {
+    background-color: #d7e1ef;
+    color: #033784;
+    font-weight: bold;
+    margin: auto;
+    padding: 10rem auto;
+    max-width: 70rem;
+}
+
+header>q {
+    font-size: large;
+}
+
+.lefty {
+    float: left;
+}
+
+.righty {
+    float: right;
+}
+
+h2, h3 {
+    clear: both;
+}
+
+.duck {
+    width: 5%;
+    margin-top: 2rem;
+}
