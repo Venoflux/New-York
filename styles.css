@@ -52,7 +52,7 @@ em {
     max-width: 70rem;
 }
 
-header>q {
+header>div>q {
     font-size: large;
 }
 
