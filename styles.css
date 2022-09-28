@@ -13,15 +13,14 @@ header {
     margin-top: 1rem;
 }
 
-footer {
-    text-align: center;
-}
-
 main>p {
     text-align: start;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3,
+footer {
     text-align: center;
 }
 
@@ -31,11 +30,13 @@ ol {
     font-weight: bold;
 }
 
-h1, h3, strong {
+h1,
+h3,
+strong {
     color: #033784;
 }
 
-h2{
+h2 {
     color: #769fce;
 }
 
@@ -64,11 +65,16 @@ header>div>q {
     float: right;
 }
 
-h2, h3 {
+h2,
+h3 {
     clear: both;
 }
 
 .duck {
     width: 5%;
     margin-top: 2rem;
+}
+
+a, u {
+    text-decoration: none;
 }
