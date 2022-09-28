@@ -75,6 +75,7 @@ h3 {
     margin-top: 2rem;
 }
 
-a, u {
+a {
     text-decoration: none;
+    color: #033784;
 }
