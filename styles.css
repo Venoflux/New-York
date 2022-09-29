@@ -5,7 +5,8 @@ html {
 body {
     font-size: 1.6rem;
     font-family: sans-serif;
-    margin: auto 20%;
+    max-width: 120rem;
+    margin: auto;
 }
 
 header {
